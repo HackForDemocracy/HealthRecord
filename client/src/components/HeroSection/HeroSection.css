@@ -1,0 +1,59 @@
+.heroSection {
+  background: #fafafa;
+  height: 825px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.heroSectionWrapper {
+  display: flex;
+
+  flex-direction: column;
+}
+.Wrapper {
+  margin-top: 20%;
+  display: flex;
+  flex-direction: column;
+}
+.Title {
+  margin-top: 35%;
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+}
+.subTitle {
+  font-family: "Plus Jakarta Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 38px;
+  line-height: 120%;
+}
+.heroSectionImg {
+  display: flex;
+  flex-direction: column;
+}
+.avatar {
+  left: 916px;
+  top: 129px;
+  position: absolute;
+  width: 476px;
+  height: 580px;
+}
+
+.image1 {
+  position: relative;
+  left: 117px;
+  top: 22px px;
+  width: 351px;
+  height: 147px;
+}
+
+.image2 {
+  left: -250px;
+  top: 225px;
+  position: relative;
+  width: 390px;
+  height: 213px;
+}
